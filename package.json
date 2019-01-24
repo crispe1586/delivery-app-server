@@ -1,0 +1,25 @@
+{
+  "name": "delivery-app-server",
+  "version": "1.0.0",
+  "description": "Delivery app node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispe1586/delivery-app-server.git"
+  },
+  "author": "Cristina Restrepo <crispe1586@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/crispe1586/delivery-app-server/issues"
+  },
+  "homepage": "https://github.com/crispe1586/delivery-app-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
