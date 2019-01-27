@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "name": "Manager",
+    "username": "manager",
+    "password": "managerpwd",
+    "roles": [
+      "manager"
+    ]
+  },
+  true,
+  {
+    "id": 2,
+    "name": "Biker 2",
+    "username": "biker2",
+    "password": "biker2pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Biker 3",
+    "username": "biker3",
+    "password": "biker3pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Biker 4",
+    "username": "biker4",
+    "password": "biker4pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Biker 5",
+    "username": "biker5",
+    "password": "biker5pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Biker 6",
+    "username": "biker6",
+    "password": "biker6pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Biker 7",
+    "username": "biker7",
+    "password": "biker7pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Biker 8",
+    "username": "biker8",
+    "password": "biker8pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Biker 9",
+    "username": "biker9",
+    "password": "biker9pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Biker 10",
+    "username": "biker10",
+    "password": "biker10pwd",
+    "roles": [
+      "biker"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Biker 1",
+    "username": "biker1",
+    "roles": [
+      "biker"
+    ]
+  }
+]

@@ -1,14 +1,25 @@
 const usersRouter = require('express').Router()
-const users = require('../helper/users-mock-data.json')
+const helpers = require('../helper')
+const users = require('../helper/users-data.json')
 
 usersRouter.get('/', (req, res) => {
   res.json(users)
 })
 
-usersRouter.post('/', (req, res) => {
+usersRouter.put('/', (req, res) => {
   const user = req.body
-  users.push(user)
-  res.json(user)
+  const userIndex = users.findIndex((u) => u.id === user.id )
+  if(userIndex !== -1) {
+    users[userIndex] =  user
+  } else {
+    users.push(user)
+  }
+  helpers.saveDataToFile(users,
+    './helper/users-data.json',
+    () => {
+      res.json(user)
+    }
+  )
 })
 
 usersRouter.get('/:id', (req, res) => {
@@ -22,7 +33,12 @@ usersRouter.patch('/:id', (req, res) => {
   const id = parseInt(req.params.id)
   const userIndex = users.findIndex((u) => u.id === id )
   const user = Object.assign(users[userIndex], newData)
-  res.json(user)
+  helpers.saveDataToFile(users,
+    './helper/users-data.json',
+    () => {
+      res.json(user)
+    }
+  )
 })
 
 module.exports = usersRouter
