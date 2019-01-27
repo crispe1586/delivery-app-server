@@ -53,7 +53,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP"
+    "status": "PICKED_UP"
   },
   {
     "id": 9,
