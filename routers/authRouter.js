@@ -5,6 +5,7 @@ authRouter.post('/', (req, res) => {
   const { username, password } = req.body
   const user = users.find(u => u.username === username && u.password === password)
   if(user) {
+    delete user.password
     res.json(user)
   } else {
     res.sendStatus(401)
