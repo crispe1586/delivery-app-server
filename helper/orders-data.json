@@ -4,384 +4,496 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 2,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 2,
     "origin": "Germany",
     "destination": "Medellin",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 3,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 4,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 5,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 6,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 7,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 8,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED_UP"
+    "status": "PICKED_UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 9,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 10,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 11,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 12,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 13,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 14,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 15,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 16,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 17,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 18,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 19,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 20,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 21,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 22,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 23,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 24,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
-    "id": 25,
+    "id": 25,,
+    "timestampPickup": null,
+    "timestampDelivery": null,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 26,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 27,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 28,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 29,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 30,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 31,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 32,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 33,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 34,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 35,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 36,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 37,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 38,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 39,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 40,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 41,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 42,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 43,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 44,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 45,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 46,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "ASSIGNED"
+    "status": "ASSIGNED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 47,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 48,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "PICKED UP"
+    "status": "PICKED UP",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 49,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "DELIVERED"
+    "status": "DELIVERED",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 50,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 16,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 99,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 100,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 100,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   },
   {
     "id": 100,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
-    "status": "WAITING"
+    "status": "WAITING",
+    "timestampPickup": null,
+    "timestampDelivery": null
   }
 ]

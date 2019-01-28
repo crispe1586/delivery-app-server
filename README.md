@@ -50,7 +50,9 @@ Payload sample:
         "origin": "Germany",
         "destination": "Colombia",
         "assignee": null,
-        "status": "WAITING | ASSIGNED | PICKED_UP | DELIVERED"
+        "status": "WAITING | ASSIGNED | PICKED_UP | DELIVERED",
+        "timestampPickup": null,
+        "timestampDelivery": null
    }
 
 ### `GET /orders/:id` 
