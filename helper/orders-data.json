@@ -216,9 +216,7 @@
     "timestampDelivery": null
   },
   {
-    "id": 25,,
-    "timestampPickup": null,
-    "timestampDelivery": null,
+    "id": 25,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
