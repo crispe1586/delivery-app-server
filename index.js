@@ -1,6 +1,7 @@
 const express = require('express')
 const app = express()
 const path = require('path')
+const cors = require('cors')
 const port = 3300
 const morgan = require('morgan')
 const bodyParser = require('body-parser')
@@ -10,6 +11,7 @@ const ordersRouter = require('./routers/ordersRouter')
 const authRouter = require('./routers/authRouter')
 
 app.use(morgan('dev'))
+app.use(cors())
 
 // Body parser
 app.use(bodyParser.urlencoded({ extended: true }))
