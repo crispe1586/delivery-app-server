@@ -94,6 +94,7 @@
     "id": 1,
     "name": "Biker 1",
     "username": "biker1",
+    "password": "biker1pwd",
     "roles": [
       "biker"
     ]
