@@ -8,7 +8,15 @@
       "manager"
     ]
   },
-  true,
+  {
+    "id": 1,
+    "name": "Biker 1",
+    "username": "biker1",
+    "password": "biker1pwd",
+    "roles": [
+      "biker"
+    ]
+  },
   {
     "id": 2,
     "name": "Biker 2",
@@ -86,15 +94,6 @@
     "name": "Biker 10",
     "username": "biker10",
     "password": "biker10pwd",
-    "roles": [
-      "biker"
-    ]
-  },
-  {
-    "id": 1,
-    "name": "Biker 1",
-    "username": "biker1",
-    "password": "biker1pwd",
     "roles": [
       "biker"
     ]

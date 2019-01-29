@@ -22,7 +22,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -112,7 +112,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -157,7 +157,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -202,7 +202,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -247,7 +247,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -292,7 +292,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -337,7 +337,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 4,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -382,7 +382,7 @@
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": 3,
-    "status": "PICKED UP",
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -408,7 +408,7 @@
     "id": 46,
     "origin": "Germany",
     "destination": "Colombia",
-    "assignee": 4,
+    "assignee": 1,
     "status": "ASSIGNED",
     "timestampPickup": null,
     "timestampDelivery": null
@@ -426,8 +426,8 @@
     "id": 48,
     "origin": "Germany",
     "destination": "Colombia",
-    "assignee": 3,
-    "status": "PICKED UP",
+    "assignee": 1,
+    "status": "PICKED_UP",
     "timestampPickup": null,
     "timestampDelivery": null
   },
@@ -435,7 +435,7 @@
     "id": 49,
     "origin": "Germany",
     "destination": "Colombia",
-    "assignee": 3,
+    "assignee": 1,
     "status": "DELIVERED",
     "timestampPickup": null,
     "timestampDelivery": null
@@ -450,34 +450,7 @@
     "timestampDelivery": null
   },
   {
-    "id": 16,
-    "origin": "Germany",
-    "destination": "Colombia",
-    "assignee": null,
-    "status": "WAITING",
-    "timestampPickup": null,
-    "timestampDelivery": null
-  },
-  {
     "id": 99,
-    "origin": "Germany",
-    "destination": "Colombia",
-    "assignee": null,
-    "status": "WAITING",
-    "timestampPickup": null,
-    "timestampDelivery": null
-  },
-  {
-    "id": 100,
-    "origin": "Germany",
-    "destination": "Colombia",
-    "assignee": null,
-    "status": "WAITING",
-    "timestampPickup": null,
-    "timestampDelivery": null
-  },
-  {
-    "id": 100,
     "origin": "Germany",
     "destination": "Colombia",
     "assignee": null,
